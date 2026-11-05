@@ -1,0 +1,7 @@
+<suite name="FrameworkPractice">
+    <test name="RegisterFunctionality">
+       <classes>
+           <class name = "tests.Register"/>
+       </classes>
+    </test>
+</suite>
